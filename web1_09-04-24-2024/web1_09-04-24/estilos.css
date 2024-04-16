@@ -1,0 +1,39 @@
+body{
+    font-family: Arial,sans-serif;
+    background-color: darkslategray;
+    margin: auto;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+    max-width: 200px;
+    margin: 20px auto;
+    background-color: darkcyan;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.222);
+}
+
+.form-group{
+    margin-bottom: 15px;
+}
+
+label{
+    display: block;
+    margin-bottom: 5px;
+}
+
+button{
+background-color: rgb(8, 61, 45);
+color: white;
+padding: 10px 20px;
+border-radius: 5px;
+}
+
+button:hover{
+    background-color: blueviolet;
+}
