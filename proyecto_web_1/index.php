@@ -171,6 +171,11 @@ nav class="nav">
             </li>
         </ul>
     </div>
+
+            <form action="Formulario.php">
+        <button type="submit" style="display: flex; justify-content: center; align-items: center;" > registrame</button>
+    </form>
+</section>
     
     
 </body>
