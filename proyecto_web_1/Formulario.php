@@ -19,13 +19,12 @@
         <h1 style="color: white;">Registro Pre-venta</h1>
     </header>
 
-    <div>
-         
+    <div>   
+      <form action="./enviarRegistro.php" method="post">
 
 
 
-
-
+     </form>
         
     </div>
     
