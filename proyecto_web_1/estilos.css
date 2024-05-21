@@ -63,3 +63,19 @@ background-color: #0d1117;
     padding: 0;
 }
 
+a{
+    color: white;
+}
+
+.ddiv{
+    text-align: right;
+    
+}
+
+@keyframes show{
+from{
+    opacity: 0;
+    scale: 25%;
+}
+}
+
