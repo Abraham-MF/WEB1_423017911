@@ -14,3 +14,6 @@ $count = mysqli_num_rows($resultado);
 if ($count == 1) {
     echo "El usuario ya está registrado.";
     echo "<a href='Formulario.php'>Nuevo Registro</a>";
+    } else {
+    $insert_query = "INSERT INTO persona (nombre_usuario, apellido_usuario, mail, telefono) VALUES ('$nombre_usuario', '$apellido_usuario', '$mail', '$telefono')";
+    
