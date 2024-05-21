@@ -110,3 +110,17 @@ section:nth-of-type(2){
 section:nth-of-type(3){
     background-color: whitesmoke;
 }
+
+section:nth-of-type(4){
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+section:nth-of-type(5){
+    background: rgb(66,67,88);
+background: radial-gradient(circle, rgba(66,67,88,1) 0%, rgba(23,40,61,1) 100%);
+}
+
+section:nth-of-type(6){
+    background: rgb(189,26,26);
+background: radial-gradient(circle, rgba(189,26,26,1) 0%, rgba(89,0,0,1) 100%);
