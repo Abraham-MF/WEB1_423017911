@@ -43,6 +43,8 @@
             </div>
 
           
+            <button type="submit" name="submit">Registrarme</button>
+          
 
 
 
