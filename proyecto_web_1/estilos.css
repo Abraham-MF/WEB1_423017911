@@ -14,3 +14,11 @@ nav{
     height: 100px;
     color: aliceblue;
 }
+
+html{
+    scroll-behavior: smooth;
+}
+
+.boton_regreso{
+ text-align: right;
+} 
