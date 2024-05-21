@@ -21,6 +21,12 @@
 
     <div>   
       <form action="./enviarRegistro.php" method="post">
+          <br>
+            <div>
+                <label for="nombre_usuario">Ingresa tu nombre(s): </label>
+                <input type="text" name="nombre_usuario" required maxlength="30" placeholder="ingresa tu nombre">
+            </div>
+
 
 
 
