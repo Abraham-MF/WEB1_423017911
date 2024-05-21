@@ -10,3 +10,7 @@ $telefono = $_POST['telefono'];
 $buscarusuario = "SELECT * FROM usuario WHERE nombre_usuario = '$nombre_usuario' and apellido_usuario ='$apellido_usuario'";
 $resultado = $conexion->query($buscarusuario);
 $count = mysqli_num_rows($resultado);
+
+if ($count == 1) {
+    echo "El usuario ya está registrado.";
+    echo "<a href='Formulario.php'>Nuevo Registro</a>";
