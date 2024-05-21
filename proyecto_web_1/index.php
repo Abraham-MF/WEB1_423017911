@@ -121,6 +121,34 @@ nav class="nav">
 
 </section>
 
+
+    
+    <section id="seccion 4">
+
+    <h1 style="font-size: 50px; text-align: center;">Tekken 8</h1>
+
+    <div class="slider-box">
+        <ul>
+            <li>
+                <img src="https://static.bandainamcoent.eu/high/tekken/tekken-8/00-page-setup/tekken8_announcement_thumbnail.jpg" alt="">
+            </li>
+
+            <li>
+                <img src="https://i.ytimg.com/vi/7n3VVhvLb3Y/maxresdefault.jpg" alt="">
+            </li>
+
+            <li>
+                <img src="https://img.pccomponentes.com/pcblog/9856/tekken-8-estos-son-todos-los-personajes-y-su-historia-1.jpg" alt="">
+            </li>
+
+            <li>
+                <img src="https://media.vandal.net/i/640x360/7-2023/202372318311760_1.jpg" alt="">
+            </li>
+        </ul>
+    </div>
+</section>
+
+
     
     
 </body>
