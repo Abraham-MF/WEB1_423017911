@@ -32,6 +32,11 @@
                 <input type="text" name="apellido_usuario" required maxlength="30" placeholder="ingresa tu apeido">
             </div>
 
+            <div>
+                <label for="mail">Ingresa tu correo electronico: </label>
+                <input type="email" name="mail" required maxlength="100" placeholder="ingresa tu correo">
+            </div>
+
 
 
 
