@@ -176,6 +176,20 @@ nav class="nav">
         <button type="submit" style="display: flex; justify-content: center; align-items: center;" > registrame</button>
     </form>
 </section>
+
+    <footer>
+    <table>
+        <tr>
+            <td>
+                <ul>
+                    <li>correo: ayuda@supportd.yanagames.com</li>
+                    <li>feacebook: Yana Games</li>
+
+                </ul>
+            </td>
+        </tr>
+    </table>
+</footer>
     
     
 </body>
