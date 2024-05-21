@@ -53,6 +53,27 @@ nav class="nav">
 
 </section>
 
+
+    <section id="seccion 2">
+
+    <div>
+        
+        <h1 style="font-size: 35px; color: #333;  background-color: rgb(151, 151, 216);">Amigos y amigas, jugadores y jugadoras apasionados por los mundos virtuales, bienvenidos a este emocionante evento! la Pre-Venta anticipada</h1>
+        <p style="font-size: 20px;"> Hoy, nos reunimos para hablar de algo que nos hace palpitar el corazón y nos hace desear que el tiempo avance mas rapido,
+            los videojuegos que tanto hemos esperado. En esta Ocacion 3 grrandes titulos como lo son Grand theft auto VI, Tekken 8 y assassin's creed shadows</p>
+        <h2>GTA 6: La Ciudad de los Sueños</h2>
+            
+        <p style="font-size: 20px;">Las calles de Vice City brillan bajo la lluvia, como gemas urbanas. GTA 6 no es solo un juego; es un portal a una metrópolis llena de posibilidades. Aquí, puedo ser un gánster, un conductor temerario o un explorador nocturno. Las misiones se entrelazan 
+                con la libertad de explorar, y cada esquina esconde secretos.La música, la atmósfera, los personajes… todo se fusiona en una experiencia cinematográfica. ¿Esperar? No, quiero sumergirme en ese mundo de crimen y acción ahora mismo.</p>
+
+        <h2>Tekken 8: El Arte de la Lucha</h2>
+        <p style="font-size: 20px;">El ring virtual de Tekken 8 es un escenario donde los puñetazos y patadas se convierten en poesía. Cada luchador tiene su historia, su estilo, su alma. Imagina los combates frenéticos, la adrenalina que se desata con cada movimiento. 
+                    La preventa no solo garantiza mi lugar en el torneo, sino también acceso a contenido exclusivo. Trajes, escenarios… incluso un emoticono de “KO” para mis mensajes. ¿Cómo resistirse? Tekken 8 es un arte en movimiento.</p>
+
+        <h2>Assassin’s Creed Shadows</h2>
+        <p style="font-size: 20px;">El Japón feudal se despliega ante nosotros, con sus cerezos en flor y sus templos antiguos. Assassin’s Creed Shadows no solo es un juego; es una inmersión en la historia y la cultura. Los tejados son mi camino, la katana mi aliada.                        
+        ¿Por qué esperar? Quiero desentrañar los misterios de los clanes, sentir la brisa en mi kimono negro con detalles dorados. El Japón feudal es mi lienzo, y yo soy el pincel.</p>    
+            </div>
   
 </body>
 </html>
