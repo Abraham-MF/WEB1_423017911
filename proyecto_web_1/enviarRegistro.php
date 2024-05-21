@@ -8,3 +8,5 @@ mail = $_POST['mail'];
 $telefono = $_POST['telefono'];
 
 $buscarusuario = "SELECT * FROM usuario WHERE nombre_usuario = '$nombre_usuario' and apellido_usuario ='$apellido_usuario'";
+$resultado = $conexion->query($buscarusuario);
+$count = mysqli_num_rows($resultado);
