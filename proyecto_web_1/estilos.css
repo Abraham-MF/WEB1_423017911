@@ -22,3 +22,13 @@ html{
 .boton_regreso{
  text-align: right;
 } 
+
+form{
+    color: white;
+    max-width: 200px;
+    margin: 20px auto;
+    background-color: #161b22;
+    padding: 20px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.222);
+    border: 3px;
+}
