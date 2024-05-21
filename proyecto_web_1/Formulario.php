@@ -15,6 +15,10 @@
         </form>
        </div>
 
+    <header class="titulo" style="text-align: center;"> 
+        <h1 style="color: white;">Registro Pre-venta</h1>
+    </header>
+
     
     
 </body>
