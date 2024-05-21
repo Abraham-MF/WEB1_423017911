@@ -1,3 +1,16 @@
 .fondo{
     background-color: black;
 }
+
+nav{
+    position: absolute;
+    z-index: 10;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-color: rgb(20, 20, 22);
+    display: block;
+    padding: 0.5px;
+    height: 100px;
+    color: aliceblue;
+}
