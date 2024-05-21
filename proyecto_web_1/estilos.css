@@ -169,3 +169,8 @@ background: radial-gradient(circle, rgba(189,26,26,1) 0%, rgba(89,0,0,1) 100%);
     75% { margin-left: -300%;}
     100% { margin-left: -300%;}
 }
+
+footer{
+    text-align: center;
+    color: whitesmoke;
+}
