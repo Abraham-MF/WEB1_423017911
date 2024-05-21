@@ -26,6 +26,11 @@
                 <label for="nombre_usuario">Ingresa tu nombre(s): </label>
                 <input type="text" name="nombre_usuario" required maxlength="30" placeholder="ingresa tu nombre">
             </div>
+          
+           <div>
+                <label for="apellido_usuario">ingresa tu primer apellido</label>
+                <input type="text" name="apellido_usuario" required maxlength="30" placeholder="ingresa tu apeido">
+            </div>
 
 
 
