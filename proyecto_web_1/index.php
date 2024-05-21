@@ -95,6 +95,33 @@ nav class="nav">
            
 </section>
 
+
+    <section id="seccion 3">
+    <h1 style="font-size: 50px; text-align: center;">Grand theft auto VI</h1>
+
+    <div class="slider-box">
+        <ul>
+            <li>
+                <img src="https://piks.eldesmarque.com/thumbs/o/1200/bin/2023/12/07/el_mapa_filtrado_de_vice_city_en_gta_vi.jpg" alt="">
+            </li>
+
+            <li>
+                <img src="https://cdn.forbes.com.mx/2023/12/Grand-Theft-Auto-VI.webp" alt="">
+            </li>
+
+            <li>
+                <img src="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/12/gta-6-3241584.jpg?tf=3840x" alt="">
+            </li>
+
+            <li>
+                <img src="https://uploads.jovemnerd.com.br/wp-content/uploads/2023/12/trailer_de_gta_6_esta_entre_nos_e_os_memes_tambem__f6u1pi.jpg" alt="">
+            </li>
+        </ul>
+    </div>
+
+</section>
+
+    
     
 </body>
 </html>
