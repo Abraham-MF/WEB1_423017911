@@ -19,4 +19,9 @@ if ($count == 1) {
     if (mysqli_query($conexion, $insert_query)) {
         echo "<br><h1>Usuario creado con éxito</h1>";
         echo "<a href='./Formulario.php'>Puedes generar un nuevo registro</a>";
-    
+        } else {
+        echo "Error al insertar el usuario: " . mysqli_error($conexion);
+    }
+}
+
+?>
