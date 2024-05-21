@@ -72,8 +72,29 @@ nav class="nav">
 
         <h2>Assassin’s Creed Shadows</h2>
         <p style="font-size: 20px;">El Japón feudal se despliega ante nosotros, con sus cerezos en flor y sus templos antiguos. Assassin’s Creed Shadows no solo es un juego; es una inmersión en la historia y la cultura. Los tejados son mi camino, la katana mi aliada.                        
-        ¿Por qué esperar? Quiero desentrañar los misterios de los clanes, sentir la brisa en mi kimono negro con detalles dorados. El Japón feudal es mi lienzo, y yo soy el pincel.</p>    
+        ¿Por qué esperar? Quiero desentrañar los misterios de los clanes, sentir la brisa en mi kimono negro con detalles dorados. El Japón feudal es mi lienzo, y yo soy el pincel.</p> 
             </div>
-  
+
+
+        <table class="posicion_img">
+    <tr>
+
+        <td>
+            <a href="#seccion 3"><img src="https://www.adslzone.net/app/uploads-adslzone.net/2024/03/dgjem7c-79361803-c228-43e7-9037-13ff126fafa3.jpg?x=480&y=375&quality=40" alt="" width="400px" height="400px"></a> 
+        </td>
+
+            <td>
+                <a href="#seccion 4"><img src="https://xxboxnews.blob.core.windows.net/prod/sites/4/Jin-T8-2d565fd3abe49ee6883c-8774c8ecf9662ed9c398.jpg" alt="" width="400px" height="400px"></a>  
+            </td>
+
+            <td>
+                <a href="#seccion 5"> <img src="https://gameover-pnx.com/wp-content/uploads/2024/05/Assassins-Creed-Shadows-1-1024x576.jpg" alt="" width="400px" height="400px"></a>  
+            </td>
+    </tr>
+</table>
+           
+</section>
+
+    
 </body>
 </html>
