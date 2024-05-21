@@ -37,6 +37,22 @@ nav class="nav">
     </table>
 </section>
 
+    
+
+    <section id="seccion 1" class="imge">
+    
+    <div>
+        <img src="https://assets-prd.ignimgs.com/2023/12/06/gta6-ign-1701824432629.jpg" alt="sdf" height="1000px" width="623px">
+    
+        <img src="https://store-images.s-microsoft.com/image/apps.43812.14322949163163356.dae4c2ae-9fa8-482a-9815-7473f8376992.169cc773-a4fd-4726-a9c1-7674c007c758" alt="tekken" height="1000px" width="625px">
+    
+        <img src="https://i.blogs.es/4ee0c3/ac-shadows/650_1200.webp" alt="Shadow" height="1000px" width="625px">
+    </div>
+
+
+
+</section>
+
   
 </body>
 </html>
