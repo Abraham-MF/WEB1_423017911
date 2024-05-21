@@ -44,11 +44,9 @@
 
           
             <button type="submit" name="submit">Registrarme</button>
+
+             <button type="reset"> vaciar</button>
           
-
-
-
-
      </form>
         
     </div>
