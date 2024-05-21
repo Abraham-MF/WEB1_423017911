@@ -19,7 +19,15 @@
         <h1 style="color: white;">Registro Pre-venta</h1>
     </header>
 
-    
+    <div>
+         
+
+
+
+
+
+        
+    </div>
     
 </body>
 </html>
