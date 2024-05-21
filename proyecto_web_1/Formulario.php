@@ -8,6 +8,13 @@
 </head>
 <body class="boton_regreso">
 
+    <div  class="boton_regreso">
+
+        <form action="index.html" >
+        <BUtton type="submit">X</BUtton>
+        </form>
+       </div>
+
     
     
 </body>
