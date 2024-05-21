@@ -149,6 +149,28 @@ nav class="nav">
 </section>
 
 
+    <section id="seccion 5">
+    <h1 style="font-size: 50px; text-align: center;">assassin's creed shadows</h1>
+
+    <div class="slider-box">
+        <ul>
+            <li>
+                <img src="https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/JSNFPYRQ6NGONE3DTFZZU57PIE.jpg" alt="">
+            </li>
+
+            <li>
+                <img src="https://staticg.sportskeeda.com/editor/2024/05/8c6ce-17160160616799-1920.jpg?w=640" alt="">
+            </li>
+
+            <li>
+                <img src="https://www.gamespot.com/a/uploads/original/1647/16470614/4303496-assassinscreedshadows.jpg" alt="">
+            </li>
+
+            <li>
+                <img src="https://sm.ign.com/ign_es/feature/a/assassins-/assassins-creed-shadows-40-details-you-need-to-know_rhsb.jpg" alt="">
+            </li>
+        </ul>
+    </div>
     
     
 </body>
