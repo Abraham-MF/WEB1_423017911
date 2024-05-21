@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="estilos.css">
     <title>Document</title>
 </head>
-<body>
+<body class="fondo">
 nav class="nav">
         <p>Yana Games</p>
            <div class="ddiv">
@@ -23,6 +23,19 @@ nav class="nav">
         
     </div>
 </nav>
+
+    <section id="Home" style="display: flex; justify-content: center; align-items: center;">
+    <table>
+        <tr>
+            <td>
+                <h1 style="font-size: 50px; text-align: center;" >Yana Games</h1>
+
+                <p style="font-size: 30px;">trae para ti la llega anticipada de juegos muy esperados
+                por toda la comunidad</p>
+            </td>
+        </tr>
+    </table>
+</section>
 
   
 </body>
