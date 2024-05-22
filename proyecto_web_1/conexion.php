@@ -5,3 +5,10 @@ $password_db = "2BCObHhkZ60N1GH";
 $db_name = "if0_36150769_proyecto_web";
 
 $conexion = new mysqli($host_db, $user_db, $password_db, $db_name);
+
+if ($conexion->connect_error) {
+    die("La conexión falló: " . $conexion->connect_error);
+} else {
+    echo "Conexión exitosa";
+}
+?>
